@@ -1,2 +1,2 @@
-# Basic-Python-programs
-Python
+# Practice set Pandas 
+Sales data
